@@ -1,1 +1,1 @@
-# django-to-do2
+# django-to-do
